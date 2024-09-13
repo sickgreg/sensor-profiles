@@ -11,10 +11,19 @@ To load a profile, copy the .bin file to the camera /etc/sensors directory and c
 
 ### IMX335
 
-#### [imx335_ssc338q_20240628.bin](https://github.com/OpenIPC/sensor-profiles/raw/master/files/imx335_ssc338q_20240628.bin) 8fb07710f42ec8c364c3c684a627b710
 
+Latest 335 profile:
 New default sensor profile for FPV pilots
 Choose this config if you fly freestyle FPV
+
+https://github.com/OpenIPC/sensor-profiles/blob/master/files/imx335_greg15.bin
+https://github.com/OpenIPC/sensor-profiles/raw/master/files/imx335_greg15.bin
+
+Same as below just further tweaked 
+
+#### [imx335_ssc338q_20240628.bin](https://github.com/OpenIPC/sensor-profiles/raw/master/files/imx335_ssc338q_20240628.bin) 8fb07710f42ec8c364c3c684a627b710
+
+
 (previously named greg12color5.bin)
 
 - works indoors or outdoors, sunny, overcast, morning, noon, evening. Very dark will be very dark
